@@ -1,0 +1,17 @@
+.button-click{
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #fff;
+    padding: 15px 25px;
+    margin: 15px 0px;
+    display: inline-block;
+    background-color: #739eef;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.button-click:hover{
+    background-color: #333;
+    color: #fff;
+    transition: .3s ease-in;
+}
